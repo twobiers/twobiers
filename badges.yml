@@ -1,0 +1,26 @@
+tools:
+  vscode: https://img.shields.io/static/v1?label=%E2%80%8B&message=VSCode&color=007ACC&style=for-the-badge&logo=visual-studio-code
+  intellij: https://img.shields.io/static/v1?label=%E2%80%8B&message=Intellij%20IDEA&color=000000&style=for-the-badge&logo=intellij-idea
+  mosquitto: https://img.shields.io/static/v1?label=%E2%80%8B&message=Mosquitto&color=3C5280&style=for-the-badge&logo=eclipse-mosquitto
+  docker: https://img.shields.io/static/v1?label=%E2%80%8B&style=for-the-badge&message=Docker&logo=docker&color=2496ED
+  mysql: https://img.shields.io/static/v1?label=%E2%80%8B&style=for-the-badge&message=MySQL&logo=mysql&color=4479A1
+  oracle: https://img.shields.io/static/v1?label=%E2%80%8B&style=for-the-badge&message=Oracle&logo=Oracle&color=F80000
+  git: https://img.shields.io/static/v1?label=%E2%80%8B&style=for-the-badge&message=Git&logo=Git&color=F05032
+  mariadb: https://img.shields.io/static/v1?label=%E2%80%8B&style=for-the-badge&message=MariaDB&logo=mariadb&color=003545
+  teams: https://img.shields.io/static/v1?label=%E2%80%8B&style=for-the-badge&message=Microsoft%20Teams&logo=microsoft-teams&color=6264A7
+  powershell: https://img.shields.io/static/v1?label=%E2%80%8B&style=for-the-badge&message=Powershell&logo=powershell&color=5391FE
+languages:
+  java: https://img.shields.io/static/v1?label=%E2%80%8B&message=Java&style=for-the-badge&logo=java&color=007396
+  kotlin: https://img.shields.io/static/v1?label=%E2%80%8B&message=Kotlin&style=for-the-badge&logo=kotlin&color=0095D5
+  rust: https://img.shields.io/static/v1?label=%E2%80%8B&message=Rust&style=for-the-badge&logo=rust&color=000000
+  python: https://img.shields.io/static/v1?label=%E2%80%8B&message=Python&style=for-the-badge&logo=python&color=3776AB
+  typescript: https://img.shields.io/static/v1?label=%E2%80%8B&message=TypeScript&style=for-the-badge&logo=typescript&color=007ACC
+  javascript: https://img.shields.io/static/v1?label=%E2%80%8B&message=JavaScript&style=for-the-badge&logo=javascript&color=F7DF1E
+  c: https://img.shields.io/static/v1?label=%E2%80%8B&message=C&style=for-the-badge&logo=C&color=A8B9CC
+frameworks:
+  spring: https://img.shields.io/static/v1?label=%E2%80%8B&message=Spring%20Framework&style=for-the-badge&logo=spring&color=6DB33F
+  angular: https://img.shields.io/static/v1?label=%E2%80%8B&message=Angular&style=for-the-badge&logo=angular&color=DD0031
+  vuejs: https://img.shields.io/static/v1?label=%E2%80%8B&message=Vue.JS&color=4FC08D&style=for-the-badge&logo=vue.js
+os:
+  windows: https://img.shields.io/static/v1?label=%E2%80%8B&style=for-the-badge&message=Windows%2010&logo=windows&color=0078D6
+  linux: https://img.shields.io/static/v1?label=%E2%80%8B&style=for-the-badge&message=Linux&logo=linux&color=FCC624
