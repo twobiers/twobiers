@@ -27,6 +27,7 @@ I love to collect badges, so my profile is also full of them.
   <img src="https://img.shields.io/static/v1?label=%E2%80%8B&message=GitHub&color=181717&style=flat-square&logo=github" /> <sup><sub>(ofc.)</sub></sup> 
   <img src="https://img.shields.io/static/v1?label=%E2%80%8B&message=GitHub%20Actions&color=2088FF&style=flat-square&logo=github-actions" /> 
   <img src="https://img.shields.io/static/v1?label=%E2%80%8B&message=GitKraken&color=179287&style=flat-square&logo=gitkraken" /> 
+  <img src="https://img.shields.io/static/v1?label=%E2%80%8B&message=Jupyter&color=F37626&style=flat-square&logo=jupyter" />
   <img src="https://img.shields.io/static/v1?label=%E2%80%8B&message=MariaDB&color=003545&style=flat-square&logo=mariadb" /> 
   <img src="https://img.shields.io/static/v1?label=%E2%80%8B&message=McDonald's&color=FBC817&style=flat-square&logo=mcdonald's" /> <sup><sub>(whops)</sub></sup> 
   <img src="https://img.shields.io/static/v1?label=%E2%80%8B&message=Eclipse%20Mosquitto&color=3C5280&style=flat-square&logo=eclipse-mosquitto" /> 
