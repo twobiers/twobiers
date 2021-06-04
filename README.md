@@ -46,3 +46,5 @@ I love to collect badges, so my profile is also full of them.
     <img src="https://img.shields.io/static/v1?label=%E2%80%8B&message=Spotify&color=1ED760&style=flat-square&logo=spotify" />
   </a>
 </p>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=rchhnd4&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
