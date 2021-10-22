@@ -1,4 +1,8 @@
+<h1 align="center">Hi 👋, I'm Tobi</h1>
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=rchhnd4&cover_image=true&theme=natemoo-re)](https://github.com/kittinan/spotify-github-profile)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tobi6112&" alt="tobi6112" /></p>
 
 <h3>Follow me</h3>
 <p>
