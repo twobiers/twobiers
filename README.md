@@ -2,7 +2,7 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=rchhnd4&cover_image=true&theme=natemoo-re)](https://github.com/kittinan/spotify-github-profile)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tobi6112&" alt="tobi6112" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=twobiers&" alt="twobiers" /></p>
 
 <h3>Follow me</h3>
 <p>
